@@ -5,7 +5,7 @@ date: 2013-10-28 20:18
 comments: true
 categories: Android, Security, Mobile
 ---
-Mobile phone security can be a nightmare.  Mobile platforms are quite complex and with this complexity comes myriad vulnerabilities.  As the complexity of mobile platforms increases so does the number of ways that they can be exploited.  
+Mobile phone security can be a nightmare.  Mobile platforms are quite complex and with this complexity comes many vulnerabilities.  As the complexity of mobile platforms increases so does the number of ways that they can be exploited.  
 Mobile platforms are also a very attractive target for an attacker, storing increasingly large amounts of data including but not limited to: contacts, pictures, videos, browsing history, text messages, emails and even credit card data.  This data is all of great interest to an attacker.  But don't lose hope, there are some simple things that you can do to increase the security of your mobile device today. Taking these actions will not make your mobile phone perfectly secure, there will still be ways that a determined attacker could gain access to your device.  However, having some security is better than having none at all.
 ## 1. Set Up a Strong Screen Lock
 Setting up a strong screen lock is the first line of defense in keeping your phone secure. But what exactly constitutes a good screen lock? As you can see from the picture below, using the pattern based screen lock can leave a smudge on the screen that makes it easy to guess what the pattern is.
