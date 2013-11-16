@@ -8,7 +8,7 @@ categories: political prisoner, hammond, anonymous, lulzsec
 ![Photo of Jeremy Hammond](/images/hammond.jpg)
 
 Today my friend Jeremy Hammond was sentenced to 10 years in Federal Prison. His crime, exposing war crimes. 
-Jeremy hacked into the website of stratfor, a private intelligence firm that contracts with the U.S. Government
+Jeremy hacked into the website of strategic forecasting inc., a private global intelligence firm that contracts with the U.S. Government
 to provide foreign intelligence and other services.  Jeremy released thousands of emails and documents from
 the stratfor servers, providing evidence that stratfor was working for various governments to track and monitor
 dissidents and activists.
